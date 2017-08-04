@@ -10,3 +10,19 @@
   - 执行```chsh -s /usr/local/bin/zsh```
 - oh-my-zsh
   - 配置文件 .zshrc
+  - 一些常用的快捷键
+    - alias cls='clear'
+    - alias ll='ls -l'
+    - alias la='ls -a'
+    - alias grep="grep --color=auto"
+    - alias -s html='vim'
+    - alias -s rb='vim'
+    - alias -s py='vim'
+    - alias -s js='vim'
+    - alias -s c='vim'
+    - alias -s java='vim'
+    - alias -s txt='vim'
+    - alias -s gz='tar -xzvf
+    - alias -s tgz='tar -xzvf'
+    - alias -s zip='unzip'
+    - alias -s bz2='tar -xjvf'
